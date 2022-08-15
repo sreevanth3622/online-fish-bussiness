@@ -1,0 +1,29 @@
+#container{
+    position:absolute;
+    top:200px;
+    left:600px;
+}
+#card_number{
+    width:auto 100%;
+}
+#tree{
+    position: absolute;
+    top:400px;
+    left:650px;
+}
+#pay{
+    position:absolute;
+    top:450px;
+    left:600px;
+}
+#man{
+    position:absolute;
+    left:300px;
+    top:300px;
+    border:10px solid orange;
+    border-radius: 500px;
+}
+body{
+    background-color:aqua;
+    background-repeat: no-repeat;
+}

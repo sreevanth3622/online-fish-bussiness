@@ -1,0 +1,47 @@
+#abc{
+    position: absolute;
+    top:200px;
+    bottom:400px;
+    left:600px;
+    right:400px;
+    color:greenyellow;
+}
+#def{
+    position:absolute;
+    top:300px;
+    bottom:600px;
+    left:600px;
+    right:400px;
+    color:greenyellow;
+}
+#ghi{
+    position:absolute;
+    top:400px;
+    bottom:600px;
+    left:600px;
+    right:400px;
+    color:red;
+    background-color:aqua;
+
+}
+#signup{
+    position:absolute;
+    top:500px;
+    bottom:600px;
+    left:600px;
+    right:400px;
+    color:red;
+}
+#xyz{
+    position: absolute;
+    left:200px;
+    border:20px solid green;
+    border-radius: 400px;
+}
+body{
+    background-image: url("logo6.jpg");
+}
+a{
+    color:red;
+}
+

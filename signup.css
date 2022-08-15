@@ -1,0 +1,113 @@
+#xyz{
+    width:70%;
+    padding-left: 500px;
+    height:50px;
+
+}
+#rty{
+    width:70%;
+    padding-left: 500px;
+    height:50px;
+
+}
+#abc{
+    width:70%;
+    padding-left: 500px;
+    height:50px;
+
+}
+#def{
+    width:70%;
+    padding-left: 500px;
+    height:50px;
+
+}
+#ghi{
+    width:70%;
+    padding-left: 500px;
+    height:50px;
+
+}
+#jkl{
+    width:70%;
+    padding-left: 500px;
+    height:50px;
+
+}
+#container{
+    position: absolute;
+    left:500px;
+
+}
+#head{
+    position: absolute;
+    left:200px;
+
+}
+#image{
+    position:absolute;
+    top:200px;
+    left:100px;
+    right:400px;
+    bottom:600px;
+}
+img{
+    border:20px solid green;
+    border-radius:300px;
+}
+span{
+    position:absolute;
+    top:700px;
+}
+#hgf{
+    color:black;
+    width:200px;
+    background-color: red;;
+}
+#uyt{
+    color:black;
+    position:absolute;
+    left:200px;
+    width:200px;
+    background-color: green;
+}
+#lkj{
+    position:absolute;
+    top:750px;
+    left:600px;
+}
+#gog{
+    position: absolute;
+    left:50px;
+    border:10px solid white;
+    border-radius:500px;
+
+}
+#lin{
+    position: absolute;
+    left:500px;
+    bottom: 100px;
+}
+#op{
+    border:10px solid white;
+    width:100px;
+    float:left;
+    position:absolute;
+    left:100px;
+}
+#lo{
+    border:10px solid white;
+    border-radius: 50px;
+    width:100px;
+    position: absolute;
+    right:300px;
+    left:1px;
+    top:10px;
+    margin-left: 1px;
+    margin-right: 500px;
+    margin-bottom:100px;
+}
+body{
+    background-image: url("image100.jpg");
+}
+
